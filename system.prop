@@ -1,0 +1,6 @@
+# Project Infinity X
+ro.product.marketname=Moto G9 Power
+ro.infinity.soc=Snapdragon® 662
+ro.infinity.battery=6000 mAh
+ro.infinity.display=720 x 1640, 60 Hz
+ro.infinity.camera=64MP (Primary) + 2MP (Depth) + 2MP (Macro) / 16 MP (Front Facing)
